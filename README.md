@@ -1,4 +1,4 @@
-# Dress Visor Controller
+# Dress Controller
 Arduino controller built for Adafruit Feather BLE for the Magic Dress
 
 ## Setup
