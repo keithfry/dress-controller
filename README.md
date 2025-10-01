@@ -1,6 +1,8 @@
 # Dress Controller
 Arduino controller built for Adafruit Feather BLE for the Magic Dress
 
+This app works with the [Magic Dress Android App](https://github.com/keithfry/dress-android) firmware.
+
 ## Setup
 ### Install Adafruit boards
 _You only need to do this once for the Arduino IDE_
